@@ -57,7 +57,7 @@ public class SearchTest {
 
         softAssert.assertAll();
     }
-    C:\Users\mupet\IdeaProjects\AutomationDemo
+
     @Test
     public void testForProductsName() {
         String searchInput = "iphone 13";
